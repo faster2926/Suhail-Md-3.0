@@ -74,9 +74,9 @@ module.exports = {
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
   author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "𝐒𝚫𝐂𝚮𝚰𝚴🍁 𝚫𝚴",
+  packname: process.env.PACK_NAME || "𝐒𝚫𝐂𝚮𝚰𝚴🍁",
   botname : process.env.BOT_NAME  || "Suhail-MD",
-  ame:process.env.OWNER_NAME|| "𝐒𝚫𝐂𝚮𝚰𝚴🍁:Shy<3",
+  ownername:process.env.OWNER_NAME|| "𝐒𝚫𝐂𝚮𝚰𝚴🍁:Shy<3",
 
 
   errorChat : process.env.ERROR_CHAT || "",
